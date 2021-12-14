@@ -1,0 +1,2 @@
+What are Angular modules?
+In Angular applications, modules are small pieces of code with independent program functionalities.
